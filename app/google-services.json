@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "292957495935",
+    "firebase_url": "https://colombo-pizza-sasmithaicbt.firebaseio.com",
+    "project_id": "colombo-pizza-sasmithaicbt",
+    "storage_bucket": "colombo-pizza-sasmithaicbt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292957495935:android:aa97e2409fdb13ba",
+        "android_client_info": {
+          "package_name": "com.colombopizza.sasmitha.colombopizzachef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292957495935-t0bk60opr1a4c5okg7eqnv496trp2gd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFIDjyizqAKOpjgL1CE7KsbfeRBpBcBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292957495935-t0bk60opr1a4c5okg7eqnv496trp2gd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292957495935:android:18380b98fc249281",
+        "android_client_info": {
+          "package_name": "com.example.noob.colombopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292957495935-t0bk60opr1a4c5okg7eqnv496trp2gd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKFIDjyizqAKOpjgL1CE7KsbfeRBpBcBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292957495935-t0bk60opr1a4c5okg7eqnv496trp2gd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
